@@ -57,6 +57,11 @@ International Movies (2,752) and Dramas (2,427) lead by a wide margin, followed 
 3. Open the file in VS Code and run
 
 ---
+## Future Scope
+
+-Build a basic "what to watch next" suggestion based on genre and country overlap
+-Dig deeper into India's content specifically, since it ranks in the top 3 globally
+-Check if genre mix shifted during 2020–2021, when comfort-watching likely spiked
 
 ## About
 Part of a self-directed data science learning journey.
