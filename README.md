@@ -23,12 +23,18 @@ The United States dominates Netflix content production by
 a significant margin. India ranks in the top 3 globally, 
 reflecting Netflix's heavy investment in Indian original content.
 
+### Analysis 3: Titles Added Over Time
+Additions stayed low until 2016, then surged, peaking in 2019 at 1,999 titles. Numbers declined after that, likely due to the pandemic and rising content costs.
+
+### Analysis 4: Top 10 Genres
+International Movies (2,752) and Dramas (2,427) lead by a wide margin, followed by Comedies (1,674). This reflects Netflix's focus on global, drama-heavy content over US-centric programming.
+
 ---
 
 ## Tools Used
 - Python 3
 - Pandas
-- Matplotlib
+- Matplotlib for data visualization
 - VS Code
 
 ---
@@ -38,6 +44,12 @@ reflecting Netflix's heavy investment in Indian original content.
 - Size: 8807 titles, 12 columns
 
 ---
+## Key Techniques
+
+- Handling missing values
+- Converting string dates into datetime objects for time-based analysis
+- Splitting and exploding multi-value columns to analyze individual categories
+- Building comparative visualizations (bar charts, line charts) to communicate trends
 
 ## How to Run
 1. Clone this repository
