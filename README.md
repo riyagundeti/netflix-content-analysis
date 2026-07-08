@@ -51,6 +51,8 @@ International Movies (2,752) and Dramas (2,427) lead by a wide margin, followed 
 - Splitting and exploding multi-value columns to analyze individual categories
 - Building comparative visualizations (bar charts, line charts) to communicate trends
 
+---
+
 ## How to Run
 1. Clone this repository
 2. Install requirements: pip install pandas matplotlib
