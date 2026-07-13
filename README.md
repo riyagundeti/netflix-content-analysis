@@ -31,6 +31,16 @@ I Bucketed ratings into Kids/Teens/Adults and tracked the split by release year.
 
 ---
 
+## Key Takeaways
+
+- Movies represent approximately 70% of Netflix's catalog.
+- The United States remains the largest content producer, with India emerging as a major contributor.
+- Netflix expanded its library aggressively between 2016 and 2019.
+- International Movies and Dramas dominate the platform.
+- Adult-oriented content has grown substantially faster than Kids' or Teen content.
+
+---
+
 ## Tools Used
 - Python 3
 - Pandas
