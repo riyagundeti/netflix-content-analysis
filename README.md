@@ -29,6 +29,11 @@ Additions stayed low until 2016, then surged, peaking in 2019 at 1,999 titles. N
 ### Analysis 4: Top 10 Genres
 International Movies (2,752) and Dramas (2,427) lead by a wide margin, followed by Comedies (1,674). This reflects Netflix's focus on global, drama-heavy content over US-centric programming.
 
+### Analysis 5: Content Maturity Trend Over Time
+
+Tracked how Kids/Teens/Adults rating share changed by release year using a stacked area chart.
+**Insight:** Adult-rated content share nearly doubled (32% → 50%+) from 2008–2021, while Teen content share fell (60% → 35%) — Netflix has skewed more mature over time.
+
 ---
 
 ## Tools Used
