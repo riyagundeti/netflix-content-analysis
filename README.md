@@ -14,25 +14,20 @@ using exploratory data analysis.
 
 ## Analyses Performed
 
-### Analysis 1: Movies vs TV Shows
-Netflix has 6131 Movies and 2676 TV Shows, meaning movies 
-make up roughly 70% of all content on the platform.
+## Analysis 1: Movies vs TV Shows
+6,131 Movies vs 2,676 TV Shows — movies make up about 70% of the catalog. Makes sense operationally: movies are one-off acquisitions, while TV shows need ongoing investment across seasons if they perform well.
 
-### Analysis 2: Top 10 Countries
-The United States dominates Netflix content production by 
-a significant margin. India ranks in the top 3 globally, 
-reflecting Netflix's heavy investment in Indian original content.
+## Analysis 2: Top 10 Countries by Content
+The US leads by far, as expected. What stood out was India landing in the top 3 — ahead of several countries with bigger overall film industries. Points to Netflix specifically pushing regional/original content in India rather than just relying on the US catalog internationally.
 
-### Analysis 3: Titles Added Over Time
-Additions stayed low until 2016, then surged, peaking in 2019 at 1,999 titles. Numbers declined after that, likely due to the pandemic and rising content costs.
+## Analysis 3: Titles Added Over Time
+Additions were slow until 2016, then spiked, peaking at 1,999 titles in 2019. Drops off after that — timing lines up with the pandemic hitting production, but this dataset doesn't actually prove that's the cause, just noting the overlap.
 
-### Analysis 4: Top 10 Genres
-International Movies (2,752) and Dramas (2,427) lead by a wide margin, followed by Comedies (1,674). This reflects Netflix's focus on global, drama-heavy content over US-centric programming.
+## Analysis 4: Top Genres
+International Movies (2,752) and Dramas (2,427) are way ahead of everything else, including Comedies (1,674). Ties back to the country data — a catalog this drama- and international-heavy fits with Netflix's global content push rather than a US-centric library.
 
-### Analysis 5: Content Maturity Trend Over Time
-
-Tracked how Kids/Teens/Adults rating share changed by release year using a stacked area chart.
-**Insight:** Adult-rated content share nearly doubled (32% → 50%+) from 2008–2021, while Teen content share fell (60% → 35%) — Netflix has skewed more mature over time.
+## Analysis 5: Content Maturity Trend Over Time
+I Bucketed ratings into Kids/Teens/Adults and tracked the split by release year. Adult content went from ~32% to 50%+ of releases between 2008–2021, Teen content dropped from ~60% to ~35%. Kids' content barely moved — Netflix isn't dropping kids' shows, it's just adding adult content much faster.
 
 ---
 
